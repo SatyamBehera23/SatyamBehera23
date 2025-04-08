@@ -2,8 +2,8 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight UTC
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Every day at midnight
+  workflow_dispatch: # Allow manual runs
 
 jobs:
   update-readme:
