@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Satyam Behera!
+# 👋 Hi, I'm Satyam Behera!
 
 Welcome to my GitHub Profile README. This profile dynamically shows my coding streak and WakaTime activity. Let's gooo 💻🔥
 
