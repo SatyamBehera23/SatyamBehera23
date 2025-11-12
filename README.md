@@ -13,7 +13,7 @@ I'm building this profile to document my progress, showcase my new skills, and c
 * 🔭 I’m currently building my foundational skills in Python, Git, and data structures.
 * 🌱 I’m currently learning **Python Full-Stack Development** and **Data Analytics**.
 * 💬 I'm excited to connect with other learners and developers. Let's talk about our learning journeys!
-* 📫 How to reach me: [satyambehera2309@gmail.com]
+* 📫 How to reach me: satyambehera2309@gmail.com
 * ⚡ Fun fact: 
 
 ---
