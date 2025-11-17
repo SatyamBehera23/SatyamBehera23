@@ -48,18 +48,7 @@ This is my learning plan! As I become proficient, I'll build projects with these
 
 ---
 
-## 📊 My GitHub Activity & Stats
-
-This is where you'll see my progress! As I push new code and complete my course projects, these stats will grow.
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SatyamBehera23&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Satyam's GitHub Stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamBehera23&layout=compact&theme=radical&hide_border=true" alt="Satyam's Top Languages" />
-</p>
-
-### Weekly WakaTime Stats
+## 📊 Weekly WakaTime Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SatyamBehera23&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats"/>
 </p>
