@@ -14,7 +14,7 @@ I'm building this profile to document my progress, showcase my new skills, and c
 * 🌱 I’m currently learning **Python Full-Stack Development** and **Data Analytics**.
 * 💬 I'm excited to connect with other learners and developers. Let's talk about our learning journeys!
 * 📫 How to reach me: satyambehera2309@gmail.com
-* ⚡ Fun fact: 
+* ⚡ Fun fact: 🗣️ "THROUGH GOES HAMILTON" & "FERNANDO IS FASTER THAN YOU"
 
 ---
 
