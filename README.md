@@ -1,6 +1,3 @@
-V2
-
-
 <!-- ===================== SUBTLE ANIMATED HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Satyam%20Behera&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Python%20Full-Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=60&descSize=20" />
