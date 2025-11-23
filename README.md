@@ -1,7 +1,7 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
 
 <p align="center">
-  <img src="https://i.imgur.com/9V0ZqKc.gif" width="100%" alt="Animated Tech Banner">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Banner">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4da6ff;">Satyam Behera</span>!</h1>
@@ -13,16 +13,15 @@
   </strong>
 </p>
 
-<!-- Floating Tech Icons -->
 <p align="center">
-  <img src="https://i.imgur.com/EoF2ZfX.gif" width="70"> 
-  <img src="https://i.imgur.com/6J7RZPj.gif" width="70"> 
-  <img src="https://i.imgur.com/hg21ZsM.gif" width="70"> 
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="70">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70">
 </p>
 
 ---
 
-<!-- ===================== ABOUT ME SECTION ===================== -->
+<!-- ===================== ABOUT ME ===================== -->
 
 ### 🚀 About Me  
 I'm a 2025 graduate with a passion for technology and a drive to learn.  
@@ -45,12 +44,12 @@ I'm building this profile to document my progress, showcase skills, and connect 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satyam-behera23/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/UyA1pMq.gif" width="300">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300">
 </p>
 
 ---
@@ -58,6 +57,7 @@ I'm building this profile to document my progress, showcase skills, and connect 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
 ## 📚 Technologies I’m Focusing On
+
 This is my learning plan. As I become proficient, I will build projects using these tools.
 
 <p align="center">
@@ -69,17 +69,15 @@ This is my learning plan. As I become proficient, I will build projects using th
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io-badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<!-- Floating Tech Particles -->
 <p align="center">
-  <img src="https://i.imgur.com/pX3yZ9P.gif" width="90"> 
-  <img src="https://i.imgur.com/pX3yZ9P.gif" width="90"> 
+  <img src="https://media.giphy.com/media/xTiTnwL8RLuUjN0mBi/giphy.gif" width="120">
 </p>
 
 ---
@@ -89,19 +87,19 @@ This is my learning plan. As I become proficient, I will build projects using th
 ## 📊 Weekly WakaTime Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SatyamBehera23&theme=radical&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SatyamBehera23&theme=radical&layout=compact&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/VV8wx1O.gif" width="250">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="250">
 </p>
 
 ---
 
-<!-- ===================== FOOTER ANIMATION ===================== -->
+<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <img src="https://i.imgur.com/0YzlI5t.gif" width="100%">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%">
 </p>
 
 <p align="center">
