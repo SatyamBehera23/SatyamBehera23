@@ -1,3 +1,15 @@
+<!-- ===================== SUBTLE ANIMATED HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Satyam%20Behera&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Python%20Full-Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=60&descSize=20" />
+</p>
+
+<!-- ===================== TYPING INTRO ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Satyam+Behera!;Aspiring+Python+Full-Stack+Developer;Data+Analytics+Enthusiast;Motorsport+and+F1+Fan" />
+</p>
+
+---
+
 # 👋 Hi, I'm Satyam Behera!
 
 <p align="center">
@@ -18,6 +30,11 @@ I'm building this profile to document my progress, showcase my new skills, and c
 
 ---
 
+<!-- ===================== ANIMATED DIVIDER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+</p>
+
 ## 🔗 Let's Connect!
 
 <p align="left">
@@ -28,27 +45,34 @@ I'm building this profile to document my progress, showcase my new skills, and c
 
 ---
 
-## 📚 Technologies I'm Focusing On
-
+<!-- ===================== ANIMATED ICONS (Skillicons) ===================== -->
+## 📚 Technologies I'm Focusing On  
 This is my learning plan! As I become proficient, I'll build projects with these tools.
 
+### **Actively Learning**
 <p align="left">
-<strong>Actively Learning:</strong>
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,postgres,django,numpy,pandas&perline=7&theme=light" />
 </p>
 
 ---
 
-## 📊 Weekly WakaTime Stats
+<!-- ===================== ANIMATED GITHUB CARDS ===================== -->
+## 📊 Weekly WakaTime Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SatyamBehera23&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SatyamBehera23&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000&animation=true" />
+</p>
+
+---
+
+<!-- ===================== ADDING ANIMATED CONTRIBUTION STREAK ===================== -->
+## 🔥 GitHub Contribution Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SatyamBehera23&theme=tokyonight&hide_border=true&fire=EB4C42&ring=66CCFF&currStreakNum=FFFFFF&currStreakLabel=66CCFF" />
+</p>
+
+---
+
+<!-- ===================== GRADIENT FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </p>
