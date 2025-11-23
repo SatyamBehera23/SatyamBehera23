@@ -1,11 +1,11 @@
-<!-- ===================== PREMIUM ANIMATED HEADER ===================== -->
+<!-- ===================== HEADER (Dark + Light Theme Safe) ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&text=Satyam%20Behera&fontSize=65&animation=scaleIn&fontAlignY=40&desc=Python%20Full-Stack%20Developer%20%7C%20Data%20Analyst&descSize=22&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:0A192F,50:112240,100:233554&text=Satyam%20Behera&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Python%20Full-Stack%20Developer%20%7C%20Data%20Analyst&descSize=20&descAlignY=60" />
 </p>
 
-<!-- ===================== TYPING INTRO ===================== -->
+<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2400&pause=700&color=0CF2FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Satyam+Behera!;Aspiring+Python+Full-Stack+Developer;Data+Analytics+Enthusiast;Motorsport+%7C+F1+Fan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2400&pause=700&color=00E7FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Satyam+Behera!;Aspiring+Python+Full-Stack+Developer;Data+Analytics+Enthusiast;Motorsport+%7C+F1+Fan" />
 </p>
 
 ---
@@ -13,108 +13,81 @@
 # 👋 Hi, I'm Satyam Behera!
 
 <p align="center">
-  <strong>A recent graduate based in Bhubaneswar  
-  <br/>
+  <strong>A recent graduate based in Bhubaneswar<br>
   Aspiring Python Full-Stack Developer & Data Analyst</strong>
 </p>
 
-<p>
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/Hi.gif" width="30px">
-</p>
+I'm a 2025 graduate with a passion for technology and a drive to learn. I'm currently building strong foundations in Python, Full-Stack Development, and Data Analytics.
 
-I'm a 2025 graduate with a passion for technology and a drive to learn. I'm at the beginning of my professional journey and am currently diving deep into a comprehensive course on Python Full-Stack Development and Data Analytics.
-
-I'm building this profile to document my progress, showcase my new skills, and connect with other developers.
-
-* 🔭 I’m currently building my foundational skills in Python, Git, and data structures.  
-* 🌱 I’m currently learning **Python Full-Stack Development** and **Data Analytics**.  
-* 💬 I'm excited to connect with other learners and developers.  
+* 🔭 Focusing on Python, Git, and data structures  
+* 🌱 Learning **Full-Stack Python + Data Analytics**  
 * 📫 Email: **satyambehera2309@gmail.com**  
-* ⚡ Fun fact: 🗣️ "THROUGH GOES HAMILTON" & "FERNANDO IS FASTER THAN YOU"
+* ⚡ F1 Fan: "THROUGH GOES HAMILTON", "Fernando is faster than you"
 
 ---
 
-<!-- ===================== SHIMMER DIVIDER ===================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kshitij0608/shimmer/master/assets/bar.gif" width="100%" />
 </p>
 
-## 🔗 Let's Connect
-
+## 🔗 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/satyam-behera23/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
 
 ---
 
-<!-- ===================== ANIMATED SKILL ICONS + HOVER EFFECT ===================== -->
 ## 📚 Technologies I'm Focusing On
-
-This is my learning plan! As I become proficient, I'll build projects with these tools.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,postgres,django,numpy,pandas,vscode,github&theme=light&perline=7" />
 </p>
 
-<!-- Animated Glow Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Actively_Learning-Gradient?style=for-the-badge&logo=riseup&logoColor=white&color=6A5ACD&labelColor=000000">
-</p>
-
 ---
 
-<!-- ===================== ANIMATED MAIN STATS ===================== -->
 ## 📈 GitHub Analytics
 
-### 🔥 Contribution Streak
+### ⏳ Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SatyamBehera23&theme=tokyonight&hide_border=true&ring=00E7FF&fire=FF6B6B&currStreakNum=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=SatyamBehera23&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📊 GitHub Metrics (Dynamic Dashboard)
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SatyamBehera23/SatyamBehera23/main/github-metrics.svg" />
-</p>
-
-(You will need to enable **GitHub Metrics Action** — I can set it up if you want.)
-
----
-
-<!-- ===================== 3D CONTRIBUTION GRAPH ===================== -->
-## 🧊 3D Contribution Graph  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/graph.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatyamBehera23&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!-- ===================== WAKATIME ===================== -->
+## 🧊 Contribution Graph (Smooth Animation)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamBehera23&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## ⏱ Weekly WakaTime Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SatyamBehera23&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SatyamBehera23&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-<!-- ===================== PROJECT SHOWCASE (ANIMATED CARDS) ===================== -->
-## 🚀 Featured Projects (Animated Cards)
+## 🚀 Featured Projects (Safe Placeholder, No Errors)
 
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SatyamBehera23&repo=project1&theme=tokyonight&hide_border=true">
+  <a href="https://github.com/SatyamBehera23">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SatyamBehera23&repo=Python&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SatyamBehera23&repo=project2&theme=tokyonight&hide_border=true">
+  <a href="https://github.com/SatyamBehera23">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SatyamBehera23&repo=Data-Analytics&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-(Add repo names and I will customize this section.)
-
 ---
 
-<!-- ===================== FOOTER WAVE ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=140&color=0:0A192F,50:112240,100:233554&section=footer" />
 </p>
