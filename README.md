@@ -1,7 +1,7 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ===================== CLEAN, LIGHT ANIMATED HEADER ===================== -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Banner">
+  <img src="https://media.tenor.com/eR-yKxV7l-YAAAAC/coding-typing.gif" width="600" alt="Coding animation">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4da6ff;">Satyam Behera</span>!</h1>
@@ -13,15 +13,14 @@
   </strong>
 </p>
 
+<!-- Small funny but relevant icons -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="70">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70">
+  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAi/laptop-typing.gif" width="60">
+  <img src="https://media.tenor.com/4L0QxZ0lk6YAAAAi/hackerman-hack.gif" width="60">
+  <img src="https://media.tenor.com/LKx1gZ7W4V8AAAAi/cat-computer.gif" width="60">
 </p>
 
 ---
-
-<!-- ===================== ABOUT ME ===================== -->
 
 ### 🚀 About Me  
 I'm a 2025 graduate with a passion for technology and a drive to learn.  
@@ -32,13 +31,11 @@ I'm building this profile to document my progress, showcase skills, and connect 
 🌟 **What I'm up to:**  
 - 🔭 Building foundational skills in **Python, Git, and Data Structures**  
 - 🌱 Learning **Full-Stack Development** & **Data Analytics**  
-- 💬 Excited to connect with learners & developers  
+- 💬 Always happy to connect with fellow learners  
 - 📫 Email: **satyambehera2309@gmail.com**  
 - ⚡ Fun fact: 🗣️ *"THROUGH GOES HAMILTON"* & *"FERNANDO IS FASTER THAN YOU"*  
 
 ---
-
-<!-- ===================== CONNECT ===================== -->
 
 ## 🔗 Let’s Connect!
 
@@ -49,27 +46,21 @@ I'm building this profile to document my progress, showcase skills, and connect 
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300">
+  <img src="https://media.tenor.com/aaFJxuxMxYkAAAAC/hello-hi.gif" width="180">
 </p>
 
 ---
 
-<!-- ===================== TECHNOLOGIES ===================== -->
-
 ## 📚 Technologies I’m Focusing On
 
-This is my learning plan. As I become proficient, I will build projects using these tools.
-
-<p align="center">
-  <strong>⚡ Actively Learning ⚡</strong>
-</p>
+<p align="center"><strong>⚡ Actively Learning ⚡</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io-badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -77,12 +68,10 @@ This is my learning plan. As I become proficient, I will build projects using th
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnwL8RLuUjN0mBi/giphy.gif" width="120">
+  <img src="https://media.tenor.com/9YFISZq-w7gAAAAC/typing-fast.gif" width="120">
 </p>
 
 ---
-
-<!-- ===================== WAKATIME ===================== -->
 
 ## 📊 Weekly WakaTime Stats
 
@@ -91,17 +80,11 @@ This is my learning plan. As I become proficient, I will build projects using th
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="250">
+  <img src="https://media.tenor.com/Bd4iM3YJHyMAAAAC/work-work-work.gif" width="200">
 </p>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%">
-</p>
-
-<p align="center">
-  <strong>✨ Thanks for visiting! Have an amazing day ✨</strong>
+  <strong>✨ Thanks for stopping by! Keep coding, keep growing ✨</strong>
 </p>
