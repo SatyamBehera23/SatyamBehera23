@@ -1,93 +1,109 @@
-<!-- ===================== HEADER (Dark + Light Theme Safe) ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:0A192F,50:112240,100:233554&text=Satyam%20Behera&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Python%20Full-Stack%20Developer%20%7C%20Data%20Analyst&descSize=20&descAlignY=60" />
-</p>
-
-<!-- ===================== TYPING ANIMATION ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2400&pause=700&color=00E7FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Satyam+Behera!;Aspiring+Python+Full-Stack+Developer;Data+Analytics+Enthusiast;Motorsport+%7C+F1+Fan" />
-</p>
-
----
-
-# 👋 Hi, I'm Satyam Behera!
+<!-- ===================== ANIMATED HEADER ===================== -->
 
 <p align="center">
-  <strong>A recent graduate based in Bhubaneswar<br>
-  Aspiring Python Full-Stack Developer & Data Analyst</strong>
+  <img src="https://i.imgur.com/9V0ZqKc.gif" width="100%" alt="Animated Tech Banner">
 </p>
 
-I'm a 2025 graduate with a passion for technology and a drive to learn. I'm currently building strong foundations in Python, Full-Stack Development, and Data Analytics.
-
-* 🔭 Focusing on Python, Git, and data structures  
-* 🌱 Learning **Full-Stack Python + Data Analytics**  
-* 📫 Email: **satyambehera2309@gmail.com**  
-* ⚡ F1 Fan: "THROUGH GOES HAMILTON", "Fernando is faster than you"
-
----
+<h1 align="center">👋 Hi, I'm <span style="color:#4da6ff;">Satyam Behera</span>!</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kshitij0608/shimmer/master/assets/bar.gif" width="100%" />
+  <strong>
+    A recent graduate based in Bhubaneswar <br/>
+    Aspiring Python Full-Stack Developer & Data Analyst
+  </strong>
 </p>
 
-## 🔗 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/satyam-behera23/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<!-- Floating Tech Icons -->
+<p align="center">
+  <img src="https://i.imgur.com/EoF2ZfX.gif" width="70"> 
+  <img src="https://i.imgur.com/6J7RZPj.gif" width="70"> 
+  <img src="https://i.imgur.com/hg21ZsM.gif" width="70"> 
 </p>
 
 ---
 
-## 📚 Technologies I'm Focusing On
+<!-- ===================== ABOUT ME SECTION ===================== -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,postgres,django,numpy,pandas,vscode,github&theme=light&perline=7" />
-</p>
+### 🚀 About Me  
+I'm a 2025 graduate with a passion for technology and a drive to learn.  
+I'm at the beginning of my professional journey and currently diving deep into a comprehensive course on **Python Full-Stack Development** and **Data Analytics**.
 
----
+I'm building this profile to document my progress, showcase skills, and connect with developers.
 
-## 📈 GitHub Analytics
-
-### ⏳ Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SatyamBehera23&theme=tokyonight&hide_border=true" />
-</p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatyamBehera23&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+🌟 **What I'm up to:**  
+- 🔭 Building foundational skills in **Python, Git, and Data Structures**  
+- 🌱 Learning **Full-Stack Development** & **Data Analytics**  
+- 💬 Excited to connect with learners & developers  
+- 📫 Email: **satyambehera2309@gmail.com**  
+- ⚡ Fun fact: 🗣️ *"THROUGH GOES HAMILTON"* & *"FERNANDO IS FASTER THAN YOU"*  
 
 ---
 
-## 🧊 Contribution Graph (Smooth Animation)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamBehera23&theme=tokyo-night&hide_border=true" />
-</p>
+<!-- ===================== CONNECT ===================== -->
 
----
-
-## ⏱ Weekly WakaTime Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SatyamBehera23&theme=tokyonight&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 🚀 Featured Projects (Safe Placeholder, No Errors)
+## 🔗 Let’s Connect!
 
 <p align="center">
-  <a href="https://github.com/SatyamBehera23">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SatyamBehera23&repo=Python&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/SatyamBehera23">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SatyamBehera23&repo=Data-Analytics&theme=tokyonight&hide_border=true" />
+  <a href="https://www.linkedin.com/in/satyam-behera23/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/UyA1pMq.gif" width="300">
+</p>
+
 ---
 
+<!-- ===================== TECHNOLOGIES ===================== -->
+
+## 📚 Technologies I’m Focusing On
+This is my learning plan. As I become proficient, I will build projects using these tools.
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=140&color=0:0A192F,50:112240,100:233554&section=footer" />
+  <strong>⚡ Actively Learning ⚡</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<!-- Floating Tech Particles -->
+<p align="center">
+  <img src="https://i.imgur.com/pX3yZ9P.gif" width="90"> 
+  <img src="https://i.imgur.com/pX3yZ9P.gif" width="90"> 
+</p>
+
+---
+
+<!-- ===================== WAKATIME ===================== -->
+
+## 📊 Weekly WakaTime Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SatyamBehera23&theme=radical&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/VV8wx1O.gif" width="250">
+</p>
+
+---
+
+<!-- ===================== FOOTER ANIMATION ===================== -->
+
+<p align="center">
+  <img src="https://i.imgur.com/0YzlI5t.gif" width="100%">
+</p>
+
+<p align="center">
+  <strong>✨ Thanks for visiting! Have an amazing day ✨</strong>
 </p>
