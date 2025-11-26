@@ -34,10 +34,22 @@ I'm building this profile to document my progress, showcase my new skills, and c
 
 ## 🔗 Let's Connect!
 
-<p align="left">
-<a href="https://www.linkedin.com/in/satyam-behera23/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/satyam-behera23/" target="_blank" style="text-decoration:none;">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+      width="45px" 
+      style="vertical-align:middle; margin-right:20px;" 
+    />
+  </a>
+
+  <a href="mailto:satyambehera2309@gmail.com" style="text-decoration:none;">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" 
+      width="45px" 
+      style="vertical-align:middle;" 
+    />
+  </a>
 </p>
 
 ---
@@ -57,16 +69,25 @@ This is my learning plan! As I become proficient, I'll build projects with these
 ## 📊 Weekly WakaTime Stats
 <p align="center">
   <a href="https://wakatime.com/@SatyamBehera23" target="_blank">
-    <img src="https://wakatime.com/share/@SatyamBehera23/cbef72fe-52e1-46f4-985b-a738d9bbd6a3.svg" alt="WakaTime Stats" />
+    <img 
+      src="https://wakatime.com/share/@SatyamBehera23/cbef72fe-52e1-46f4-985b-a738d9bbd6a3.svg" 
+      alt="WakaTime Stats"
+      width="450"
+    />
   </a>
 </p>
 
 ---
-## 🧑🏽‍💻 Languages Used
+
+## 🧑🏽‍💻 Languages Used  
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=SatyamBehera23&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000"
-  />
+  <a href="https://wakatime.com/@SatyamBehera23" target="_blank">
+    <img 
+      src="https://wakatime.com/share/@SatyamBehera23/3bc73d5c-1265-445d-8ceb-cf02f61c557c.svg" 
+      alt="WakaTime Stats"
+      width="450"
+    />
+  </a>
 </p>
 
 ---
