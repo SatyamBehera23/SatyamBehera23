@@ -54,9 +54,11 @@ This is my learning plan! As I become proficient, I'll build projects with these
 ---
 
 <!-- ===================== ANIMATED GITHUB CARDS ===================== -->
-## 📊 Weekly WakaTime Stats  
+## 📊 Weekly WakaTime Stats
 <p align="center">
-  <img src="<figure><embed src="https://wakatime.com/share/@SatyamBehera23/cbef72fe-52e1-46f4-985b-a738d9bbd6a3.svg"></embed></figure>" />
+  <a href="https://wakatime.com/@SatyamBehera23" target="_blank">
+    <img src="https://wakatime.com/share/@SatyamBehera23/cbef72fe-52e1-46f4-985b-a738d9bbd6a3.svg" alt="WakaTime Stats" />
+  </a>
 </p>
 
 ---
