@@ -62,6 +62,14 @@ This is my learning plan! As I become proficient, I'll build projects with these
 </p>
 
 ---
+## 🧑🏽‍💻 Languages Used
+<p align="center">
+  <a href="https://wakatime.com/@SatyamBehera23" target="_blank">
+    <img src="https://wakatime.com/share/@SatyamBehera23/3bc73d5c-1265-445d-8ceb-cf02f61c557c.svg" alt="WakaTime Stats" />
+    </a>
+</p>
+
+---
 
 <!-- ===================== ADDING ANIMATED CONTRIBUTION STREAK ===================== -->
 ## 🔥 GitHub Contribution Streak  
