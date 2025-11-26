@@ -64,9 +64,9 @@ This is my learning plan! As I become proficient, I'll build projects with these
 ---
 ## 🧑🏽‍💻 Languages Used
 <p align="center">
-  <a href="https://wakatime.com/@SatyamBehera23" target="_blank">
-    <img src="https://wakatime.com/share/@SatyamBehera23/3bc73d5c-1265-445d-8ceb-cf02f61c557c.svg" alt="WakaTime Stats" />
-    </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=SatyamBehera23&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000"
+  />
 </p>
 
 ---
