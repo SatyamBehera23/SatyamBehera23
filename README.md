@@ -83,7 +83,7 @@ This is my learning plan! As I become proficient, I'll build projects with these
 <p align="center">
   <a href="https://wakatime.com/@SatyamBehera23" target="_blank">
     <img 
-      src="https://wakatime.com/share/@SatyamBehera23/3bc73d5c-1265-445d-8ceb-cf02f61c557c.svg" 
+      src="https://wakatime.com/share/@SatyamBehera23/8428fecb-54ec-4c71-929f-b6315cd2812d.svg"
       alt="WakaTime Stats"
       width="450"
     />
