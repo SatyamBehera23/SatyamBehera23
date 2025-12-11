@@ -14,7 +14,11 @@ import datetime
 from typing import List, Dict
 
 GITHUB_API = "https://api.github.com/graphql"
-USER = os.environ.get("GITHUB_USER") or os.environ.get("INPUT_USER") or os.environ.get("REPO_OWNER")
+USER = (
+    os.environ.get("GITHUB_USER")
+    or os.environ.get("INPUT_USER")
+    or os.environ.get("REPO_OWNER")
+)
 TOKEN = os.environ.get("GITHUB_TOKEN")  # provided by GitHub Actions
 
 if not TOKEN:
@@ -22,31 +26,35 @@ if not TOKEN:
     sys.exit(2)
 
 if not USER:
-    # fallback to repo owner in Actions (GITHUB_REPOSITORY_OWNER may be available)
+    # fallback to repo owner in Actions
     USER = os.environ.get("GITHUB_REPOSITORY_OWNER")
     if not USER:
         print("Error: Could not determine GitHub user. Set GITHUB_USER env var.", file=sys.stderr)
         sys.exit(2)
 
+
 def run_graphql(query: str, variables: dict = None) -> dict:
     headers = {
         "Authorization": f"bearer {TOKEN}",
-        "Accept": "application/vnd.github.everest-preview+json"
+        "Accept": "application/vnd.github.everest-preview+json",
     }
     json_data = {"query": query}
     if variables:
         json_data["variables"] = variables
+
     r = requests.post(GITHUB_API, json=json_data, headers=headers, timeout=30)
     r.raise_for_status()
+
     data = r.json()
     if "errors" in data:
         raise RuntimeError(f"GraphQL errors: {data['errors']}")
     return data["data"]
 
+
 def fetch_contribution_days(user: str) -> List[Dict]:
-    # GraphQL query: fetch contributionCalendar weeks -> days. We'll request current year.
+    # FIXED: Removed unused variables ($from, $to)
     query = """
-    query ($login: String!, $from: DateTime, $to: DateTime) {
+    query ($login: String!) {
       user(login: $login) {
         contributionsCollection {
           contributionCalendar {
@@ -62,51 +70,55 @@ def fetch_contribution_days(user: str) -> List[Dict]:
       }
     }
     """
+
     res = run_graphql(query, {"login": user})
     weeks = res["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+
     days = []
     for week in weeks:
         for d in week["contributionDays"]:
             days.append({"date": d["date"], "count": d["contributionCount"]})
-    # sort by date ascending
+
+    # Sort dates ascending
     days.sort(key=lambda x: x["date"])
     return days
 
+
 def compute_current_streak(days: List[Dict]) -> int:
-    # We assume days list contains a continuous calendar for the year (or at least recent weeks).
-    # Walk backwards from last day present until a day has 0 contributions.
     if not days:
         return 0
-    # Convert to dict for faster lookup
+
+    # Map date → contributions
     day_map = {d["date"]: d["count"] for d in days}
-    # determine last date available
+
     last_date_str = days[-1]["date"]
     last_date = datetime.datetime.strptime(last_date_str, "%Y-%m-%d").date()
     today = datetime.date.today()
-    # If the calendar doesn't include today yet, we still consider streak up to last available day
+
     cursor = min(today, last_date)
     streak = 0
+
     while True:
         key = cursor.strftime("%Y-%m-%d")
         count = day_map.get(key, 0)
-        if count and count > 0:
+
+        if count > 0:
             streak += 1
-            cursor = cursor - datetime.timedelta(days=1)
-            # continue
+            cursor -= datetime.timedelta(days=1)
         else:
             break
+
     return streak
 
+
 def generate_svg(streak: int, total_last_year: int = None, username: str = "") -> str:
-    # Build a compact SVG card
-    # Colors and layout are intentionally simple and customizable.
     title = "GitHub Contribution Streak"
     subtitle = f"{streak} day" + ("s" if streak != 1 else "")
     date_str = datetime.date.today().strftime("%b %d, %Y")
-    # Basic sizing
+
     width = 540
     height = 110
-    # choose color based on streak intensity
+
     if streak >= 30:
         accent = "#FF6B6B"
     elif streak >= 7:
@@ -130,13 +142,11 @@ def generate_svg(streak: int, total_last_year: int = None, username: str = "") -
   <rect rx="12" ry="12" width="100%" height="100%" fill="url(#g)" filter="url(#shadow)"/>
   <g transform="translate(22,20)">
     <g transform="translate(0,0)">
-      <!-- Fire icon -->
       <g transform="translate(0,0) scale(0.9)">
         <path d="M18 2s-2 3-2.5 5c-.5 2-2.2 3-2.2 5 0 2.8 2.2 5 5 5s5-2.2 5-5c0-3-2-5.5-2-8S25 2 25 2 22 6 21 6c-1 0-3-3-3-3S18 2 18 2z" fill="{accent}" />
       </g>
     </g>
 
-    <!-- Text -->
     <g transform="translate(60,6)">
       <text x="0" y="18" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#E6EEF6" font-weight="700">{title}</text>
       <text x="0" y="42" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="28" fill="{accent}" font-weight="800">{subtitle}</text>
@@ -146,6 +156,7 @@ def generate_svg(streak: int, total_last_year: int = None, username: str = "") -
 </svg>'''
     return svg
 
+
 def main():
     try:
         days = fetch_contribution_days(USER)
@@ -154,14 +165,16 @@ def main():
         sys.exit(3)
 
     streak = compute_current_streak(days)
-    total = 0
-    if days:
-        total = sum(d["count"] for d in days)
+    total = sum(d["count"] for d in days) if days else 0
+
     svg = generate_svg(streak, total_last_year=total, username=USER)
+
     out_path = "streak.svg"
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(svg)
+
     print(f"Wrote {out_path} (current streak: {streak})")
+
 
 if __name__ == "__main__":
     main()
