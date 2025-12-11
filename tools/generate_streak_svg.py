@@ -53,23 +53,21 @@ def run_graphql(query: str, variables: dict = None) -> dict:
 
 def fetch_contribution_days(user: str) -> List[Dict]:
     # FIXED: Removed unused variables ($from, $to)
-    query = """
     query ($login: String!) {
-      user(login: $login) {
-        contributionsCollection {
-          contributionCalendar {
-            totalContributions
-            weeks {
-              contributionDays {
-                date
-                contributionCount
-              }
-            }
+  user(login: $login) {
+    contributionsCollection {
+      contributionCalendar {
+        totalContributions
+        weeks {
+          contributionDays {
+            date
+            contributionCount
           }
         }
       }
     }
-    """
+  }
+}
 
     res = run_graphql(query, {"login": user})
     weeks = res["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
