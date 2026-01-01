@@ -1,18 +1,20 @@
 name: Update Streak Card
 
 on:
-  schedule:
-    - cron: '0 0 * * *'   # daily at midnight UTC
+  push:
+    branches: [ main ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  update-streak:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -20,28 +22,22 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: python -m pip install --upgrade pip requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: Run streak generator
-        working-directory: ${{ github.workspace }}
+      - name: Generate streak SVG
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: SatyamBehera23
         run: |
           python tools/generate_streak_svg.py
-          ls -l streak.svg
 
-      # ---------------- FIXED COMMIT STEP ----------------
-      - name: Commit and push changes
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push streak.svg
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
-
-          git add streak.svg || echo "no file found"
-          git commit -m "chore: update streak.svg [skip ci]" || echo "nothing to commit"
-
-          git push origin HEAD:${{ github.ref_name }} || echo "push failed"
+          git add streak.svg
+          git commit -m "chore: update streak card" || exit 0
+          git push
