@@ -94,7 +94,10 @@ This is my learning plan! As I become proficient, I'll build projects with these
 
 <!-- ===================== ADDING ANIMATED CONTRIBUTION STREAK ===================== -->
 ## 🔥 GitHub Contribution Streak  
-<img src="https://raw.githubusercontent.com/SatyamBehera23/SatyamBehera23/main/streak.svg" width="540">
+<img 
+  src="https://streak-stats.demolab.com?user=SatyamBehera23&theme=default&hide_border=true"
+  width="450"
+/>
 
 ---
 
