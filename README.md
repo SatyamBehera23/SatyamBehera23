@@ -106,3 +106,5 @@ This is my learning plan! As I become proficient, I'll build projects with these
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </p>
+
+<!-- trigger streak workflow -->
