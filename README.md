@@ -93,8 +93,6 @@ This is my learning plan! As I become proficient, I'll build projects with these
 ---
 
 <!-- ===================== ADDING ANIMATED CONTRIBUTION STREAK ===================== -->
-## 🔥 GitHub Contribution Streak  
-
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
