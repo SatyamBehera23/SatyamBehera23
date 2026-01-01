@@ -89,7 +89,7 @@ def compute_current_streak(days: List[Dict]) -> int:
 
     last_date_str = days[-1]["date"]
     last_date = datetime.datetime.strptime(last_date_str, "%Y-%m-%d").date()
-    today = datetime.date.today()
+    today = datetime.datetime.utcnow().date()
 
     cursor = min(today, last_date)
     streak = 0
