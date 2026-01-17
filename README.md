@@ -96,7 +96,10 @@ This is my learning plan! As I become proficient, I'll build projects with these
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="./streak.svg" width="450" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SatyamBehera23&theme=react&hide_border=true"
+    width="450"
+  />
 </p>
 
 
