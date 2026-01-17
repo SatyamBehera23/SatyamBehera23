@@ -1,11 +1,11 @@
 <!-- ===================== SUBTLE ANIMATED HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Satyam%20Behera&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Python%20Full-Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Satyam%20Behera&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20Python%20Developer&descAlignY=60&descSize=20" />
 </p>
 
 <!-- ===================== TYPING INTRO ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Satyam+Behera!;Aspiring+Python+Full-Stack+Developer;Data+Analytics+Enthusiast;Motorsport+and+F1+Fan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=900&color=00E7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Satyam+Behera!;Learning+Data+Analytics+with+Python;Exploring+Backend+Development;Motorsport+%26+F1+Fan" />
 </p>
 
 ---
@@ -13,66 +13,65 @@
 # 👋 Hi, I'm Satyam Behera!
 
 <p align="center">
-  <strong>A recent graduate based in Bhubaneswar
-  <br/>
-  Aspiring Python Full-Stack Developer & Data Analyst</strong>
+  <strong>
+    2025 Graduate • Bhubaneswar 🇮🇳
+    <br/>
+    Learning-focused | Aspiring Data Analyst with Python
+  </strong>
 </p>
 
-I'm a 2025 graduate with a passion for technology and a drive to learn. I'm at the beginning of my professional journey and am currently diving deep into a comprehensive course on Python Full-Stack Development and Data Analytics.
+I'm a 2025 graduate currently in the **learning and skill-building phase** of my career.  
+I’m actively training in **Data Analytics and Python development**, focusing on building strong fundamentals before moving into real-world projects.
 
-I'm building this profile to document my progress, showcase my new skills, and connect with other developers.
+This GitHub profile is a place where I **track my consistency, learning progress, and technical growth**.  
+Most of my practice work is currently **private**, as it’s part of structured learning and coursework.
 
-* 🔭 I’m currently building my foundational skills in Python, Git, and data structures.
-* 🌱 I’m currently learning **Python Full-Stack Development** and **Data Analytics**.
-* 💬 I'm excited to connect with other learners and developers. Let's talk about our learning journeys!
-* 📫 How to reach me: satyambehera2309@gmail.com
-* ⚡ Fun fact: 🗣️ "THROUGH GOES HAMILTON" & "FERNANDO IS FASTER THAN YOU"
+* 🔭 Building strong foundations in **Python, Git, SQL & data structures**
+* 🌱 Learning **Data Analytics**, **Python backend basics (Django)**, and databases
+* 💬 Always open to connecting with fellow learners and early-career developers
+* 📫 Reach me at: **satyambehera2309@gmail.com**
+* ⚡ Fun fact: 🗣️ “THROUGH GOES HAMILTON” & “FERNANDO IS FASTER THAN YOU”
 
 ---
-
-<!-- ===================== ANIMATED DIVIDER ===================== -->
 
 ## 🔗 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyam-behera23/" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/satyam-behera23/" target="_blank">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-      width="45px" 
-      style="vertical-align:middle; margin-right:20px;" 
+      width="45" 
     />
   </a>
-
-  <a href="mailto:satyambehera2309@gmail.com" style="text-decoration:none;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:satyambehera2309@gmail.com">
     <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" 
-      width="45px" 
-      style="vertical-align:middle;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
+      width="45" 
     />
   </a>
 </p>
 
 ---
 
-<!-- ===================== ANIMATED ICONS (Skillicons) ===================== -->
 ## 📚 Technologies I'm Focusing On  
-This is my learning plan! As I become proficient, I'll build projects with these tools.
+This reflects my **current learning roadmap**.  
+As I gain confidence, I’ll start building and publishing public projects.
 
 ### **Actively Learning**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,postgres,django,numpy,pandas&perline=7&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,numpy,pandas,git,django,html,css,javascript&perline=7&theme=light" />
 </p>
 
 ---
 
-<!-- ===================== ANIMATED GITHUB CARDS ===================== -->
 ## 📊 Weekly WakaTime Stats
 <p align="center">
   <a href="https://wakatime.com/@SatyamBehera23" target="_blank">
     <img 
       src="https://wakatime.com/share/@SatyamBehera23/cbef72fe-52e1-46f4-985b-a738d9bbd6a3.svg" 
       alt="WakaTime Stats"
-      width="450"
+      width="440"
     />
   </a>
 </p>
@@ -84,30 +83,36 @@ This is my learning plan! As I become proficient, I'll build projects with these
   <a href="https://wakatime.com/@SatyamBehera23" target="_blank">
     <img 
       src="https://wakatime.com/share/@SatyamBehera23/8428fecb-54ec-4c71-929f-b6315cd2812d.svg"
-      alt="WakaTime Stats"
-      width="450"
+      alt="WakaTime Languages"
+      width="440"
     />
   </a>
 </p>
 
 ---
 
-<!-- ===================== ADDING ANIMATED CONTRIBUTION STREAK ===================== -->
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=SatyamBehera23&theme=react&hide_border=true"
-    width="450"
+    width="440"
   />
 </p>
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://stats-github-readme.vercel.app/api?username=SatyamBehera23&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true"
+    width="440"
+  />
+</p>
 
 ---
 
-<!-- ===================== GRADIENT FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </p>
-
-<!-- trigger streak workflow -->
