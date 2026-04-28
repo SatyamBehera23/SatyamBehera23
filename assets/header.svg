@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Satyam Behera animated profile header</title>
+  <desc id="desc">A restrained technical animated header with scanning lines, data nodes, and subtle motion.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#060b13" />
+      <stop offset="55%" stop-color="#0c1728" />
+      <stop offset="100%" stop-color="#12243a" />
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f1d31" />
+      <stop offset="100%" stop-color="#152840" />
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#57d0ff" />
+      <stop offset="100%" stop-color="#8fffd1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffd166" />
+      <stop offset="100%" stop-color="#ff8a4c" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#22364d" stroke-width="1" opacity="0.34" />
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#000000" flood-opacity="0.35" />
+    </filter>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="36" />
+    </filter>
+    <style>
+      .bgPulseA { animation: bgPulseA 10s ease-in-out infinite; }
+      .bgPulseB { animation: bgPulseB 12s ease-in-out infinite; }
+      .scan { animation: scan 5.8s linear infinite; }
+      .nodeA { animation: nodeA 2.4s ease-in-out infinite; transform-origin: center; }
+      .nodeB { animation: nodeB 3s ease-in-out infinite; transform-origin: center; }
+      .wave { animation: wave 4.2s ease-in-out infinite; }
+      .cursor { animation: cursor 1s steps(1, end) infinite; }
+      .bar1 { animation: bar1 2.6s ease-in-out infinite; transform-origin: left center; }
+      .bar2 { animation: bar2 3s ease-in-out infinite; transform-origin: left center; }
+      .bar3 { animation: bar3 3.3s ease-in-out infinite; transform-origin: left center; }
+      .floatCard1 { animation: floatCard 7s ease-in-out infinite; }
+      .floatCard2 { animation: floatCard 7.8s ease-in-out infinite; }
+      .floatCard3 { animation: floatCard 8.6s ease-in-out infinite; }
+      @keyframes bgPulseA {
+        0%, 100% { opacity: 0.12; transform: scale(1); }
+        50% { opacity: 0.2; transform: scale(1.08); }
+      }
+      @keyframes bgPulseB {
+        0%, 100% { opacity: 0.08; transform: scale(1); }
+        50% { opacity: 0.15; transform: scale(1.12); }
+      }
+      @keyframes scan {
+        0% { transform: translateY(-280px); opacity: 0; }
+        10% { opacity: 0.8; }
+        90% { opacity: 0.8; }
+        100% { transform: translateY(280px); opacity: 0; }
+      }
+      @keyframes nodeA {
+        0%, 100% { opacity: 0.45; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.25); }
+      }
+      @keyframes nodeB {
+        0%, 100% { opacity: 0.25; transform: scale(1); }
+        50% { opacity: 0.85; transform: scale(1.4); }
+      }
+      @keyframes wave {
+        0%, 100% { transform: translateX(0px); }
+        50% { transform: translateX(10px); }
+      }
+      @keyframes cursor {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes bar1 {
+        0% { transform: scaleX(0.22); }
+        50% { transform: scaleX(0.94); }
+        100% { transform: scaleX(0.38); }
+      }
+      @keyframes bar2 {
+        0% { transform: scaleX(0.18); }
+        50% { transform: scaleX(0.86); }
+        100% { transform: scaleX(0.3); }
+      }
+      @keyframes bar3 {
+        0% { transform: scaleX(0.28); }
+        50% { transform: scaleX(0.92); }
+        100% { transform: scaleX(0.24); }
+      }
+      @keyframes floatCard {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-6px); }
+      }
+    </style>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#bg)" />
+  <rect width="1280" height="420" fill="url(#grid)" />
+
+  <g class="bgPulseA">
+    <circle cx="1110" cy="90" r="120" fill="#57d0ff" opacity="0.12" filter="url(#blur)" />
+  </g>
+  <g class="bgPulseB">
+    <circle cx="1090" cy="322" r="160" fill="#8fffd1" opacity="0.08" filter="url(#blur)" />
+  </g>
+
+  <rect x="42" y="36" width="790" height="348" rx="28" fill="url(#panel)" stroke="#2c425c" stroke-width="2" filter="url(#shadow)" />
+  <rect x="866" y="54" width="350" height="86" rx="24" fill="#14263c" stroke="#45627f" stroke-width="2" filter="url(#shadow)" class="floatCard1" />
+  <rect x="866" y="166" width="350" height="86" rx="24" fill="#14263c" stroke="#45627f" stroke-width="2" filter="url(#shadow)" class="floatCard2" />
+  <rect x="866" y="278" width="350" height="86" rx="24" fill="#14263c" stroke="#45627f" stroke-width="2" filter="url(#shadow)" class="floatCard3" />
+
+  <rect x="74" y="68" width="296" height="28" rx="14" fill="#0d1726" stroke="#3e5874" />
+  <text x="92" y="87" font-family="'Consolas', 'Courier New', monospace" font-size="14" font-weight="700" letter-spacing="1.8" fill="#ffd166">SATYAM BEHERA / BUILD PROFILE</text>
+
+  <rect x="58" y="112" width="756" height="20" fill="#57d0ff" opacity="0.06" class="scan" />
+  <line x1="74" y1="122" x2="810" y2="122" stroke="url(#line)" stroke-width="1.5" opacity="0.4" />
+
+  <text x="74" y="160" font-family="'Georgia', 'Palatino Linotype', serif" font-size="62" font-weight="700" fill="#f6f1e7">Working on fundamentals.</text>
+  <text x="74" y="222" font-family="'Georgia', 'Palatino Linotype', serif" font-size="62" font-weight="700" fill="#f6f1e7">Building with intent.</text>
+
+  <text x="76" y="278" font-family="'Trebuchet MS', 'Verdana', sans-serif" font-size="25" fill="#c2cfdb">Python, SQL, Django, and data analysis with a long-game focus.</text>
+  <text x="76" y="310" font-family="'Trebuchet MS', 'Verdana', sans-serif" font-size="25" fill="#c2cfdb">Public projects will show up here when they are ready.</text>
+
+  <rect x="74" y="330" width="480" height="32" rx="16" fill="#0d1726" stroke="#39516c" />
+  <text x="92" y="351" font-family="'Consolas', 'Courier New', monospace" font-size="15" font-weight="700" fill="#8fffd1">$ next_public_build</text>
+  <text x="248" y="351" font-family="'Consolas', 'Courier New', monospace" font-size="15" font-weight="700" fill="#ffd166" class="cursor">_</text>
+
+  <circle cx="596" cy="338" r="5" fill="#57d0ff" class="nodeA" />
+  <circle cx="626" cy="338" r="5" fill="#8fffd1" class="nodeB" />
+  <circle cx="656" cy="338" r="5" fill="#ffd166" class="nodeA" />
+
+  <path d="M690 350 C720 320, 742 320, 770 350 C792 372, 820 372, 848 350" fill="none" stroke="url(#line)" stroke-width="4" stroke-linecap="round" class="wave" />
+
+  <text x="892" y="84" font-family="'Consolas', 'Courier New', monospace" font-size="12.5" font-weight="700" fill="#57d0ff">FOCUS</text>
+  <text x="892" y="116" font-family="'Trebuchet MS', 'Verdana', sans-serif" font-size="28" font-weight="700" fill="#f6f1e7">backend fundamentals</text>
+  <rect x="892" y="124" width="278" height="10" rx="5" fill="#0d1726" />
+  <rect x="892" y="124" width="278" height="10" rx="5" fill="url(#line)" class="bar1" />
+
+  <text x="892" y="196" font-family="'Consolas', 'Courier New', monospace" font-size="12.5" font-weight="700" fill="#8fffd1">ACTIVE</text>
+  <text x="892" y="228" font-family="'Trebuchet MS', 'Verdana', sans-serif" font-size="28" font-weight="700" fill="#f6f1e7">python + sql + django</text>
+  <rect x="892" y="236" width="278" height="10" rx="5" fill="#0d1726" />
+  <rect x="892" y="236" width="278" height="10" rx="5" fill="url(#line)" class="bar2" />
+
+  <text x="892" y="308" font-family="'Consolas', 'Courier New', monospace" font-size="12.5" font-weight="700" fill="#ffd166">NEXT</text>
+  <text x="892" y="340" font-family="'Trebuchet MS', 'Verdana', sans-serif" font-size="28" font-weight="700" fill="#f6f1e7">first repo worth pinning</text>
+  <rect x="892" y="348" width="278" height="10" rx="5" fill="#0d1726" />
+  <rect x="892" y="348" width="278" height="10" rx="5" fill="url(#accent)" class="bar3" />
+</svg>
